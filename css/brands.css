@@ -276,3 +276,11 @@ button:hover,
 .button.button-website:hover,
 .button.button-website:focus {
   filter: brightness(90%) }
+
+/* Clubhouse */
+.button.button-clubhouse {
+  color: #FFFFFF;
+  background-color: #6515dd }
+.button.button-clubhouse:hover,
+.button.button-clubhouse:focus {
+  filter: brightness(90%) }
